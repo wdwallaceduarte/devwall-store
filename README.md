@@ -43,12 +43,7 @@ Eventos no JavaScript
 Animações CSS
 Estruturação de layout moderno
 Organização de código front-end
-🛠 Melhorias Futuras
-Responsividade mobile completa
-Integração com API de produtos
-Botão de compra
-Dark/Light Mode
-Touch swipe no carrossel
+
 👨‍💻 Autor
 
 Desenvolvido por Wallace Duarte.
